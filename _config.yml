@@ -22,15 +22,20 @@ author: Mayara Saldanha
 navbar-links:
   About Me: "aboutme"
   Programming: 
-    - Google Data Analytics Cert (Data Foundations): "google_1_data_foundations"
-    - Google Data Analytics Cert (Methodology): "google_2_methodology"
-    - Python for Everyone (Intro to Python):  "python_for_everyone_intro"
-    - Python for Everyone (Data Structures):  "python_for_everyone_data_structures"
-    - Python for Everyone (Access Web Data):  "python_for_everyone_web_access"
-    - SENAI Full Stack (AngularJS): "senai_angular"
-    - SENAI Full Stack (API): "senai_api"
-    - SENAI Full Stack (Git): "senai_git"
-    - SENAI Full Stack (Design): "senai_design"
+    - Google Data Analytics Certification:
+      - Data Foundations: "google_1_data_foundations"
+      - Methodology: "google_2_methodology"
+    - Python for Everyone:
+      - Intro to Python:  "python_for_everyone_intro"
+      - Data Structures:  "python_for_everyone_data_structures"
+      - Access Web Data:  "python_for_everyone_web_access"
+    - SENAI Full Stack (750+ Hours): 
+      - AngularJS: "senai_angular"
+      - API: "senai_api"
+      - Git: "senai_git"
+      - Design: "senai_design"
+      - Front-End: "senai_design"
+      - Back-End: "senai_design"
   Data Analysis:
     - Ultimate SQL Bootcamp Course: "ultimatesqlbootcamp"
   LinkedIn: "https://www.linkedin.com/in/mayara-saldanha-aba719142/"
