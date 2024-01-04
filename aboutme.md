@@ -12,10 +12,12 @@ subtitle: Why you'd want to hire me as a data analyst
 ### Hello! 🇨🇦
 
 My name is Mayara Saldhana, and I have the following professional qualities:
+```
   - I listen well.
   - I am organized.
   - I learn rapidly.
-  - I know Python, SQL, & JavaScript. 
+  - I know Python, SQL, & JavaScript.
+```
 
 ### My story 🐝
 
