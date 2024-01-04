@@ -5,19 +5,14 @@ subtitle: Why you'd want to hire me as a data analyst
 ---
 <img 
   align="left" 
-  style="border: .5em solid transparent; 
-         border-top-right-radius: 1em; 
-         border-bottom-left-radius: 1em; 
-         padding-bottom: 1em; padding-right: 1em;"
+  style="border: .5em solid transparent; border-top-right-radius: 1em; border-bottom-left-radius: 1em; padding-bottom: 1em; padding-right: 1em;"
   src="/assets/img/may_photo.png" 
   alt="My data analyst photo!">
 
-Hello! My name is Mayara Saldhana, and I have the following qualities:
-
+Hello! My name is Mayara Saldhana 🇨🇦, and I have the following professional qualities:
   - I listen well.
-  - I accomplish tasks invidually or in a group 
-  - I am exceptionally organized.
-  - I learn things rapidly.
+  - I am organized.
+  - I learn rapidly.
   - I know Python, SQL, & JavaScript. 
 
 ### My story 🐝
