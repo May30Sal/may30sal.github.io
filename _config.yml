@@ -21,10 +21,16 @@ author: Mayara Saldanha
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  JavaScript Projects:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Python Projects:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  SQL Projects:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Linkedin: "https://deanattali.com"
 
 ################
 # --- Logo --- #
