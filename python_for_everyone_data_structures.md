@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Python For Everyone Specialization
+title: Python For Everyone
 subtitle: Data Structures
 ---
 
