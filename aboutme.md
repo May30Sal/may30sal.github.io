@@ -5,7 +5,10 @@ subtitle: Why you'd want to hire me as a data analyst...
 ---
 <img 
   align="left" 
-  style="border: .5em solid lightgrey; border-top-right-radius: 1em; border-bottom-left-radius: 1em; margin: 1em;"
+  style="border: .5em solid transparent; 
+         border-top-right-radius: 1em; 
+         border-bottom-left-radius: 1em; 
+         padding-bottom: 1em; padding-right: 1em;"
   src="/assets/img/may_photo.png" 
   alt="My data analyst photo!">
 
