@@ -21,6 +21,7 @@ author: Mayara Saldanha
 
 navbar-links:
   About Me: "aboutme"
+  Resume: "resume"
   Programming: 
     - Google Data Analytics Cert > Data Foundations: "google_1_data_foundations"
     - Google Data Analytics Cert > DMethodology: "google_2_methodology"
