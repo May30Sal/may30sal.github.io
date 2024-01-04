@@ -5,7 +5,7 @@ subtitle: Why you'd want to hire me as a data analyst
 ---
 <img 
   align="left" 
-  style="width:15em; height:15em; border: .25em solid lightgrey; border-top-right-radius: 1em; border-bottom-left-radius: 1em; margin-right: 1em; "
+  style="width:12em; height:12em; border: .25em solid lightgrey; border-top-right-radius: 1em; border-bottom-left-radius: 1em; margin-right: 1em; "
   src="/assets/img/may_photo.png" 
   alt="My data analyst photo!">
 
@@ -15,6 +15,7 @@ My name is Mayara Saldhana, and I have the following professional qualities:
 ✔️  I am organized.<br>
 ✔️  I learn rapidly.<br>
 ✔️  I know Python, SQL, & JavaScript.<br>
+<br>
 
 ### My story 🐝
 
