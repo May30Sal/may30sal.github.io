@@ -15,7 +15,6 @@ My name is Mayara Saldhana, and I have the following professional qualities:
 ✔️  I am organized.<br>
 ✔️  I learn rapidly.<br>
 ✔️  I know Python, SQL, & JavaScript.<br>
-<br>
 
 ### My story 🐝
 
