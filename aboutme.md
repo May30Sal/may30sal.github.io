@@ -14,13 +14,12 @@ My name is Mayara Saldhana, and I have the following professional qualities:
 ✔️  I listen well.<br>
 ✔️  I am organized.<br>
 ✔️  I learn rapidly.<br>
-✔️  I know Python, SQL, & JavaScript.<br>
+✔️  I know Python, SQL, Git, & JavaScript.<br>
+✔️  I like VSCode & MySQL.<br>
 
 ### My story 🐝
 
-My master's in History was an unexpected gateway to the data revolution. From passionately deciphering cryptic medieval spanish legal documents in the 13th century, to orchestrating monthly meetings and end-of-year conferences (with 50 presenters!), I learned the intricate art of coalescing knowledge from fragmented data. 
-
-This foundation proved crucial as I am embarking on my computational journey into unknown territory of digital domains.
+My master's in History was an unexpected gateway to the data revolution. From passionately deciphering cryptic medieval spanish legal documents in the 13th century, to orchestrating monthly meetings and end-of-year conferences (with 50 presenters!), I learned the intricate art of coalescing knowledge from fragmented data. This foundational training has facilitated my self-directed computational journey into an unknown territory of digital domains.
 
 ### Why you may want to hire me ☑️ 	
 
