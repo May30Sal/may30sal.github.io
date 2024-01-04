@@ -21,11 +21,17 @@ author: Mayara Saldanha
 
 navbar-links:
   About Me: "aboutme"
-  Programming:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Programming: 
+    - Google Data Analytics (Certification): "programming"
+    - Python for Everyone (Intro to Python):  "programming"
+    - Python for Everyone (Data Structures):  "programming"
+    - Python for Everyone (Access Web Data):  "programming"
+    - SENAI Full Stack (AngularJS): "senai"
+    - SENAI Full Stack (API): "senai"
+    - SENAI Full Stack (Git): "senai"
+    - SENAI Full Stack (Design): "senai"
   Data Analysis:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Ultimate SQL Bootcamp Course: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Linkedin: "https://deanattali.com"
 
