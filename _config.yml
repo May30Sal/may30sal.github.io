@@ -22,7 +22,8 @@ author: Mayara Saldanha
 navbar-links:
   About Me: "aboutme"
   Programming: 
-    - Google Data Analytics (Certification): "programming"
+    - Google Data Analytics Cert (Data Foundations): "programming"
+    - Google Data Analytics Cert (Methodology): "programming"
     - Python for Everyone (Intro to Python):  "programming"
     - Python for Everyone (Data Structures):  "programming"
     - Python for Everyone (Access Web Data):  "programming"
