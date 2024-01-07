@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: May-gic Data > May Saldanha's Digital Portfolio
+title: May-gic Data!
 
 # Your name to show in the footer
 author: Mayara Saldanha
@@ -20,27 +20,27 @@ author: Mayara Saldanha
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resume: "resume"
+  About Me: "web_aboutme"
   Programming: 
-    - Google Data Analytics Cert > Data Foundations: "google_1_data_foundations"
-    - Google Data Analytics Cert > DMethodology: "google_2_methodology"
-    - Python for Everyone > Intro to Python:  "python_for_everyone_intro"
-    - Python for Everyone > Data Structures:  "python_for_everyone_data_structures"
-    - Python for Everyone > Access Web Data:  "python_for_everyone_web_access"
-    - SENAI Full Stack > AngularJS: "senai_angular"
-    - SENAI Full Stack > API: "senai_api"
-    - SENAI Full Stack > Git: "senai_git"
-    - SENAI Full Stack > Design: "senai_design"
-    - SENAI Full Stack > Front-End: "senai_design"
-    - SENAI Full Stack > Back-End: "senai_design"
+    - Google > Foundation: "web_google_1_data_foundations"
+    - Google > Methodology: "web_google_2_methodology"
+    - Python > Intro to Python:  "web_python_for_everyone_intro"
+    - Python > Data Structures:  "web_python_for_everyone_data_structures"
+    - Python > Access Web Data:  "web_python_for_everyone_web_access"
+    - SENAI > AngularJS: "web_senai_angular"
+    - SENAI > API: "web_senai_api"
+    - SENAI > Git: "web_senai_git"
+    - SENAI > Design: "web_senai_design"
+    - SENAI > Front-End: "web_senai_design"
+    - SENAI Full Stack > Back-End: "web_senai_design"
   Data Analysis:
-    - Ultimate SQL Bootcamp > Database Setup: "ultimatesqlbootcamp"
-    - Ultimate SQL Bootcamp > Schemas: "ultimatesqlbootcamp"
-    - Ultimate SQL Bootcamp > Inner Joins: "ultimatesqlbootcamp"
-    - Ultimate SQL Bootcamp > Outer Joins: "ultimatesqlbootcamp"
-    - Ultimate SQL Bootcamp > Left & Right Joins: "ultimatesqlbootcamp"
-    - Ultimate SQL Bootcamp > Subqueries: "ultimatesqlbootcamp"
+    - Ultimate > Database Setup: "web_ultimatesqlbootcamp"
+    - Ultimate > Schemas: "web_ultimatesqlbootcamp"
+    - Ultimate > Inner Joins: "web_ultimatesqlbootcamp"
+    - Ultimate > Outer Joins: "web_ultimatesqlbootcamp"
+    - Ultimate > Left & Right Joins: "web_ultimatesqlbootcamp"
+    - Ultimate > Subqueries: "web_ultimatesqlbootcamp"
+  Resume: "web_resume"
   LinkedIn: "https://www.linkedin.com/in/mayara-saldanha-aba719142/"
 
 ################
@@ -49,7 +49,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/female_mage.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true

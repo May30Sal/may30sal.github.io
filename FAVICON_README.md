@@ -1,0 +1,1 @@
+Source from here: https://favicon.io/emoji-favicons/woman-mage/
