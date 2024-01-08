@@ -11,13 +11,12 @@ Education
 ---------
 
 2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+:   **MSc, History**; Awesome University (MyTown)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: 13 Century laws in Spain*
 
 2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
+:   **BSc, Awesome Stuff**; University of
     HomeTown (HomeTown)
 
     *Minor: Awesomeology*

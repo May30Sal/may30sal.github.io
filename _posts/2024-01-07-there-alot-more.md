@@ -4,6 +4,9 @@ title: Starting the analytics journey 🚶‍♀️
 subtitle: There’s a lot to learn! 🌟
 gh-repo: May30Sal/may30sal.github.io
 gh-badge: [star, fork, follow]
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
 tags: [data analysis code programming;]
 comments: true
 author: Mayara Saldanha
@@ -17,7 +20,7 @@ Through the ins and outs of teaching myself how to code and reading a lot of blo
 With that said, the goal of this website is to share a little bit of what I’ve been learning and developing regarding to programming, code, data, and ethical-social considerations (eg. bias, privacy, etc.). And also, connecting with people and companies that could be of great value for my professional development.
 
 <div style="font-size:2rem;width:100%;text-align:center;">
-    Welcome do May-gic Data!
+    Welcome to May-gic Data!
 </div>
 
 <div style="font-size:5rem;width:100%;text-align:center;">🪄🎩🐰</div>
