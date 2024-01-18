@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [data analysis code programming;]
+tags: [data analysis. code. programming.]
 comments: true
 author: Mayara Saldanha
 ---

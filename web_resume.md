@@ -4,89 +4,65 @@ title: Resume
 subtitle: For Mayara
 ---
 
-# Mayara Saldhanha
-email@example.com
+# Mayara Saldanha
+💻 may.analytics@outlook.com
 
-Education
+Education 📖
 ---------
 
-2010-2014 (expected)
-:   **MSc, History**; Awesome University (MyTown)
+2023-2024
+- **Google Data Analytics Professional Certificate**, Google (in progress)
+- **Pyhton For Everybody Specialization**, University of Michigan (in progress)
 
-    *Thesis title: 13 Century laws in Spain*
+2021-2022
+- **Full Stack Developer Course**, SENAI
 
-2007-2010
-:   **BSc, Awesome Stuff**; University of
-    HomeTown (HomeTown)
+✅ The projects and activities that I've been developing during the tech courses can be found in my profile in [Github](https://github.com/May30Sal). 
 
-    *Minor: Awesomeology*
+2021-2023
+- **M.A. in History**, Federal Rural University of Rio de Janeiro (Brazil). **M.A. Thesis:** *The organization of the judicial process as an instrument of affirmation of the Castilian monarchy in the 13th century. A comparative analysis of the Fuero Juzgo and the Fuero Real.*
 
-Experience
+2015-2020
+- **B.A in History**, Rio de Janeiro State University (Brazil). **B.A. Thesis:** *The structuring of the legal process in the reign of Afonso X, the Wise.*
+
+✅ The papers and chapters of books that I've written during my undergraduate and master's degree can be found in my profile at [Academia.edu](https://passeidireto.academia.edu/MayaraSaldanha). 
+
+
+
+Skills 🛠️
 ----------
 
-**Your Most Recent Work Experience:**
+* Excel: spreadsheets, formulas, file handling and data visualization
+* SQL: I can create, update and maintain databases
+* Javascript/Python: basic web and data coding, some OOP
+* Other tech: HTML, CSS, Bootstrap, Git/Github, NodeJs
+* Tableau and R: (in progress)
+* Active listener, organized, detail oriented
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
+Relevant Experience and Projects
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+<img style="width:5%; height:5%;"
+  src="/assets/img/female_mage.png" 
+  alt="Female mage image"> **Web Portal (This!):** I’ve created this JAMstack web portfolio/blog to document my data analytics journey, it's the May-gic Data! 
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+ <img style="width:5%; height:5%;"
+  src="/assets/img/github.png" 
+  alt="github icon image"> **Github Profile:** I have a [Github account](https://github.com/May30Sal) where I share my projects and what I’ve learned so far. Some of my projects are:
+* **Game Mania Store Website:** for this project I used HTML, CSS, Bootstrap, Angular, Javascript and Jquery to create a front-end interface for a ficticious web store. I developed some functionalities using media queries for responsive design, DOM manipulation and js-carousel to make the page interactive.
+* **Technical Share App:** online mentoring scheduling platform, created during the FCamara Hackaton I participated as a Front-End Dev. For this project I used HTML, CSS, Bootstrap, Javascript, and API’s to manage data between client and server. 
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Some Other Cool Stuff that I do 🤩
 ----------------------------------------
 
-* Human Languages:
+* I speak some human languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * English (ESL)
+     * Portuguese (native)
+     * French (in progress)
 
-* Random tidbit
+* I volunteer at [Meow Foundation](https://meowfoundation.com/) 😸
 
-* Other sort of impressive-sounding thing you did
+* I am part of a Medieval History Study Group [PEM/UERJ](https://pemuerj.wordpress.com/blog/) 🛡️⚔️

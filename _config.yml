@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: May-gic Data Blog!
+title: May-gic Data!
 
 # Your name to show in the footer
 author: Mayara Saldanha
@@ -21,25 +21,16 @@ author: Mayara Saldanha
 
 navbar-links:
   About Me: "web_aboutme"
-  Programming: 
-    - Google > Foundation: "web_google_1_data_foundations"
-    - Google > Methodology: "web_google_2_methodology"
-    - Python > Intro to Python:  "web_python_for_everyone_intro"
-    - Python > Data Structures:  "web_python_for_everyone_data_structures"
-    - Python > Access Web Data:  "web_python_for_everyone_web_access"
-    - SENAI > AngularJS: "web_senai_angular"
-    - SENAI > API: "web_senai_api"
-    - SENAI > Git: "web_senai_git"
-    - SENAI > Design: "web_senai_design"
-    - SENAI > Front-End: "web_senai_design"
-    - SENAI Full Stack > Back-End: "web_senai_design"
-  Data Analysis:
-    - Ultimate > Database Setup: "web_ultimatesqlbootcamp"
-    - Ultimate > Schemas: "web_ultimatesqlbootcamp"
-    - Ultimate > Inner Joins: "web_ultimatesqlbootcamp"
-    - Ultimate > Outer Joins: "web_ultimatesqlbootcamp"
-    - Ultimate > Left & Right Joins: "web_ultimatesqlbootcamp"
-    - Ultimate > Subqueries: "web_ultimatesqlbootcamp"
+  My Learning: 
+    - Google Data Analytics > Professional Certificate: "web_google_data_analysis"
+    - Python for Everybody > Specialization: "web_python_for_everybody"
+    - SENAI Full Stack Developer > Course: "web_senai_fullstack"
+    - The Ultimate SQL > Bootcamp: "web_sql_bootcamp"
+  My Projects:
+    - Game Mania Web Store: "web_game_mania"
+#    - FCamara Hackaton: "web_hackaton"
+    - Excel Practices: "web_excel_practices"
+#    - Other Cool Stuff: "web_other"
   Resume: "web_resume"
   LinkedIn: "https://www.linkedin.com/in/mayara-saldanha-aba719142/"
 
@@ -70,7 +61,7 @@ social-network-links:
   email: "may.analytics@outlook.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
-  # github: daattali
+  github: "May30Sal"
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: "@daattali"
