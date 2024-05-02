@@ -13,7 +13,7 @@ author: Mayara Saldanha
 ---
 
 {: .box-success}
-My name is Mayara Saldanha and I’m creating this website to document my journey through the Technology field.  I have a humanities background, but during the pandemic I decided to seek for an adventure with programming and code [and started with MIT's Scratch](https://scratch.mit.edu/).
+My name is Mayara Saldanha and I’m creating this website to document my journey through the Technology field.  I have a humanities background, but during the pandemic I decided to seek for an adventure with programming and code [and started with MIT's Scratch](https://scratch.mit.edu/){:target="_blank"}.
 
 Through the ins and outs of teaching myself how to code and reading a lot of blogs and books about it I and ended up discovering the power of Data! This was my “aha” moment, when I figured out how data analysis and humanities are connected and how much of my previous knowledge I could bring into my recently studies.
 

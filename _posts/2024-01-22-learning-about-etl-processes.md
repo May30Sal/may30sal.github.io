@@ -30,13 +30,13 @@ There is also a variation of this process that is called ELT. In this one, there
   alt="data icons image">    
 </div>
 
-To learn a little bit more about ETL Process I took the Udemy crash course [ETL using Python: from MySQL to BigQuery](https://www.udemy.com/course/etl-using-python-mysql-to-bigquery/). It has a "hands on" approach, using tools like MySQL, Python, Pandas, and BigQuery.
+To learn a little bit more about ETL Process I took the Udemy crash course [ETL using Python: from MySQL to BigQuery](https://www.udemy.com/course/etl-using-python-mysql-to-bigquery/){:target="_blank"}. It has a "hands on" approach, using tools like MySQL, Python, Pandas, and BigQuery.
 
 It was very important for me to be able to do the entire ETL process and see how it works in practice. To start, I established a connection with the database using a python script, and for this I learned how to create a virtual machine with Anaconda. I also imported the necessary modules, wrote some queries to get the data I needed, and reused some datasets that I had previously developed for a SQL Course.
 
 For the transformation part, I learned how to use pandas and python functions to interact with the database, creating new columns and filtering the desired information. Then I exported the transformed data as .csv files. Finally, I loaded the data into BigQuery, using google cloud module to establish the connection with the data warehouse. 
 
-And that was the first step of my wonderful journey into the data engineering field 🥳. All the activities developed during this project can be found in my Github repository [ETL_Process_MySQL_to_BigQuery](https://github.com/May30Sal/ETL_Process_MySQL_to_BigQuery) 
+And that was the first step of my wonderful journey into the data engineering field 🥳. All the activities developed during this project can be found in my Github repository [ETL_Process_MySQL_to_BigQuery](https://github.com/May30Sal/ETL_Process_MySQL_to_BigQuery){:target="_blank"}.
 
 
 *All images by Freepik.*

@@ -12,7 +12,7 @@ Education 📖
 
 2023-2024
 - **Google Data Analytics Professional Certificate**, Google (in progress)
-- **Pyhton For Everybody Specialization**, University of Michigan (in progress)
+- **Pyhton For Everybody Specialization**, University of Michigan
 
 2021-2022
 - **Full Stack Developer Course**, SENAI
