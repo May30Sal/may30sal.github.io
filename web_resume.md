@@ -10,9 +10,12 @@ subtitle: For Mayara
 Education 📖
 ---------
 
+2024-2026
+- **Software Engineering Graduate Specialization**, University of São Paulo
+
 2023-2024
-- **Google Data Analytics Professional Certificate**, Google (in progress)
-- **Pyhton For Everybody Specialization**, University of Michigan
+- **Data Analytics with Python Course**, University of São Paulo
+- **Pyhton For Everybody Specialization**, University of Michigan -  Coursera
 
 2021-2022
 - **Full Stack Developer Course**, SENAI
@@ -35,9 +38,9 @@ Skills 🛠️
 * Excel: spreadsheets, formulas, file handling and data visualization
 * SQL: I can create, update and maintain databases
 * Javascript/Python: basic web and data coding, some OOP
-* Other tech: HTML, CSS, Bootstrap, Git/Github, NodeJs
-* Tableau and R: (in progress)
-* Active listener, organized, detail oriented
+* Other tech: HTML, CSS, Bootstrap, Git/Github, NodeJs, VueJs, OpenLayers, Anaconda, Jupyter Notebook and Google Colab
+* GIS: QGIS and QField, ArcGIS
+* I am an active listener, well organized, with excellent communication and problem-solving skills
 
 Relevant Experience and Projects
 --------------------
@@ -61,8 +64,9 @@ Some Other Cool Stuff that I do 🤩
 
      * English (ESL)
      * Portuguese (native)
-     * French (in progress)
+     * French (A2)
+     * Spanish (B2)
 
-* I volunteer at [Meow Foundation](https://meowfoundation.com/) 😸
+* I volunteer at the [Brazilian Community Association of Alberta](https://brazilianassociation.org/) 🏘️
 
 * I am part of a Medieval History Study Group [PEM/UERJ](https://pemuerj.wordpress.com/blog/) 🛡️⚔️

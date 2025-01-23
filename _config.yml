@@ -22,8 +22,8 @@ author: Mayara Saldanha
 navbar-links:
   About Me: "web_aboutme"
   My Learning: 
-    - Google Data Analytics > Professional Certificate: "web_google_data_analysis"
-    - Python for Everybody > Specialization: "web_python_for_everybody"
+    - Data Analytics: "web_data_analytics"
+    - Python: "web_python"
     - SENAI Full Stack Developer > Course: "web_senai_fullstack"
     - The Ultimate SQL > Bootcamp: "web_sql_bootcamp"
   My Projects:
