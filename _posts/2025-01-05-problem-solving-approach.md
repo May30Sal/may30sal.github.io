@@ -9,6 +9,7 @@ tags: [Problem Solving. Programming. Data Analytics.]
 comments: true
 author: Mayara Saldanha
 ---
+
 I've been studying more about algorithms lately, as they are a fundamental part of programming and data analytics, and I noticed that when we start practicing with code challenges, it's easy to get stuck at a particular part of the task. Depending on the complexity level, sometimes we don't even know from where or how to start doing it at all.
 
 To help on this process, I'd like to share 3 basic steps that have helped me to approach **problem solving**:
@@ -22,3 +23,5 @@ To help on this process, I'd like to share 3 basic steps that have helped me to 
 For me, as a beginner, I’ve found these steps very useful to improve my learning process and to avoid getting paralyzed when not coming up with a complete solution at first. I hope it can be valuable for others too!
 
 Ps. this problem solving approach can be used for many more things other than programming 😉
+
+*Images by Freeimages.com and Freepik.com*
